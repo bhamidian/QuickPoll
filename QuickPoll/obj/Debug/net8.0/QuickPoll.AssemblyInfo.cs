@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickPoll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8311c093960b4d8f1a417a7f90b3289df36730b")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickPoll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickPoll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

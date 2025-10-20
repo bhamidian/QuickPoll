@@ -11,8 +11,10 @@ namespace QuickPoll.Domain.Entities
         public string ChoiceNumber { get; set; }
         public string Name { get; set; }
         public bool IsCorrect { get; set; }
-        public List<NormalUser> NormalUsers { get; set; }
-        public int NormalUserId { get; set; }
-       
+
+        public List<NormalUser> NormalUsers { get; set; } = new List<NormalUser>();
+
+        public int QuestionId { get; set; }
+        public Question Question { get; set; }
     }
 }

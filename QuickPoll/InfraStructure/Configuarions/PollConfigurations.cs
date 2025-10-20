@@ -18,11 +18,15 @@ namespace QuickPoll.InfraStructure.Configuarions
             builder.HasKey(p => p.Id);
 
             builder.Property(p => p.Subject).IsRequired();
-            
-            builder.HasMany(q => q.Questions)
-                .WithOne(p => p.Poll)
-                .HasForeignKey(p => p.PollId)
-                .OnDelete(DeleteBehavior.Cascade);
+
+            builder.HasOne(a => a.Admin)
+            .WithMany(p => p.Polls)
+            .HasForeignKey(a => a.AdminId)
+            .OnDelete(DeleteBehavior.NoAction);
+
+
+
+
 
             builder.HasData(
                 new Poll { Id = 1, AdminId = 1, Subject = "new form" });

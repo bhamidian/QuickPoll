@@ -17,6 +17,10 @@ namespace QuickPoll.InfraStructure.Configuarions
             builder.HasKey(q => q.Id);
 
             builder.Property(q => q.QuestionNumber).IsRequired();
+
+
+
+
         }
     }
 }
