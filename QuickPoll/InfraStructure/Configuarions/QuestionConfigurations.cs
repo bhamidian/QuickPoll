@@ -16,7 +16,17 @@ namespace QuickPoll.InfraStructure.Configuarions
         {
             builder.HasKey(q => q.Id);
 
-            builder.Property(q => q.QuestionNumber).IsRequired();
+            builder.HasOne(p => p.Poll)
+                .WithMany(q => q.Questions)
+                .HasForeignKey(q => q.PollId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            builder.HasMany(c => c.Choices)
+                .WithOne(q => q.Question)
+                .HasForeignKey(c => c.QuestionId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+
 
 
 

@@ -1,13 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Microsoft.EntityFrameworkCore.Metadata.Conventions.Infrastructure;
 using QuickPoll.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace QuickPoll.InfraStructure.Configuarions
 {
@@ -17,19 +10,26 @@ namespace QuickPoll.InfraStructure.Configuarions
         {
             builder.HasKey(p => p.Id);
 
-            builder.Property(p => p.Subject).IsRequired();
+            builder.Property(p => p.Subject)
+                   .IsRequired()
+                   .HasMaxLength(150);
 
-            builder.HasOne(a => a.Admin)
-            .WithMany(p => p.Polls)
-            .HasForeignKey(a => a.AdminId)
-            .OnDelete(DeleteBehavior.NoAction);
+            builder.HasOne(p => p.Admin)
+                   .WithMany(a => a.Polls)
+                   .HasForeignKey(p => p.AdminId)
+                   .OnDelete(DeleteBehavior.NoAction);
+
+            builder.HasMany(p => p.Questions)
+                   .WithOne(q => q.Poll)
+                   .HasForeignKey(q => q.PollId)
+                   .OnDelete(DeleteBehavior.Cascade);
+
+            builder.HasMany(p => p.NormalUsers)
+                   .WithMany(u => u.Polls);
 
 
 
 
-
-            builder.HasData(
-                new Poll { Id = 1, AdminId = 1, Subject = "new form" });
         }
     }
 }

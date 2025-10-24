@@ -8,7 +8,6 @@ namespace QuickPoll.Domain.Entities
 {
     public class Question : BaseEntity
     {
-        public string QuestionNumber { get; set; }
         public string Description { get; set; }
         public int PollId { get; set; }
         public Poll Poll { get; set; }

@@ -17,4 +17,6 @@ namespace QuickPoll.Domain.Entities
 
         public List<NormalUser> NormalUsers { get; set; } = new List<NormalUser>();
     }
+
+
 }

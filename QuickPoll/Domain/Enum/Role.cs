@@ -8,7 +8,9 @@ namespace QuickPoll.Domain.Enum
 {
     public enum Role
     {
-        Admin = 0,
-        NormalUser = 1
+        Admin = 2,
+        NormalUser = 1,
+        Guest = 3
+
     }
 }

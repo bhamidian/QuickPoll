@@ -64,6 +64,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.10, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[5.1.57, )"
+            },
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.52.0, )"
             }
           },
           "imports": [

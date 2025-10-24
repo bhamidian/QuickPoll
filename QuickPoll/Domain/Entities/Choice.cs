@@ -8,7 +8,6 @@ namespace QuickPoll.Domain.Entities
 {
     public class Choice : BaseEntity
     {
-        public string ChoiceNumber { get; set; }
         public string Name { get; set; }
         public bool IsCorrect { get; set; }
 

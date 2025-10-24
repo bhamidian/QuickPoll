@@ -7,12 +7,10 @@ using System.Threading.Tasks;
 
 namespace QuickPoll.Domain.Entities
 {
-    public class Admin : BaseEntity
+    public class Admin : User
     {
-        public List<Poll> Polls { get; set; } = [];
-        public string UserName { get; set; }
-        public string Password { get; set; }
-        public Role Role { get; set; }
+        public List<Poll?> Polls { get; set; } = [];
+
 
 
     }

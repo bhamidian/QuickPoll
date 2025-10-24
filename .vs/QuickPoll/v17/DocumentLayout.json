@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\createpolldto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\createpolldto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\reposotories\\ipollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\reposotories\\ipollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\repositories\\normaluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\repositories\\normaluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\reposotories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\reposotories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\repositories\\pollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\repositories\\pollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\createpolldto\\createchoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\createpolldto\\createchoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\createpolldto\\createquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\createpolldto\\createquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\createpolldto\\createpolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\createpolldto\\createpolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\repositories\\pollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\repositories\\pollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\configuarions\\userconfiguarions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\configuarions\\userconfiguarions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\configuarions\\questionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\configuarions\\questionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\configuarions\\pollconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\configuarions\\pollconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\configuarions\\choiceconfiguraions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\configuarions\\choiceconfiguraions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +57,162 @@
     {
       "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\entities\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\entities\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\entities\\normaluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\entities\\normaluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\entities\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\entities\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\services\\ipolloperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\services\\ipolloperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\services\\ichoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\services\\ichoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\reposotories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\reposotories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\reposotories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\reposotories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\reposotories\\ipollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\reposotories\\ipollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\domain\\contracts\\reposotories\\ichoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\domain\\contracts\\reposotories\\ichoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\services\\polloperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\services\\polloperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\services\\choiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\services\\choiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\loginresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\loginresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\getquestionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\getquestionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\getquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\getquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\getpolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\getpolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\getchoicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\getchoicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\createquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\createquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\createpolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\createpolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\createchoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\createchoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\applicationservice\\dtos\\choiceresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\applicationservice\\dtos\\choiceresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\infrastructure\\repositories\\choicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\infrastructure\\repositories\\choicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024212026_ini10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuickPoll\\Migrations\\20251024212026_ini10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024085400_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuickPoll\\Migrations\\20251024085400_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024084927_FinalSeedSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuickPoll\\Migrations\\20251024084927_FinalSeedSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024083906_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuickPoll\\Migrations\\20251024083906_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024083648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuickPoll\\Migrations\\20251024083648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024083234_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuickPoll\\Migrations\\20251024083234_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024065000_init9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuickPoll\\Migrations\\20251024065000_init9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\quickpoll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\quickpoll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|c:\\users\\abolfazl\\source\\repos\\quickpoll\\quickpoll\\framwork\\consolepainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A108D2A9-390A-4698-B4D3-6CD8EFD5CDF9}|QuickPoll\\QuickPoll.csproj|solutionrelative:quickpoll\\framwork\\consolepainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251021122312_addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuickPoll\\Migrations\\20251021122312_addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251021105923_admin-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuickPoll\\Migrations\\20251021105923_admin-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,176 +222,684 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResultDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\ResultDTO.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\ResultDTO.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\ResultDTO.cs",
-              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\ResultDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "PollRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\PollRepository.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Repositories\\PollRepository.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\PollRepository.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\Repositories\\PollRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:57:38.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Services\\IUserService.cs",
-              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:55:59.135Z",
+              "WhenOpened": "2025-10-21T14:00:32.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Reposotories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IUserRepository.cs",
-              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Reposotories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAALAAAAAAAAAA==",
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Repositories\\QuestionRepository.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\QuestionRepository.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\Repositories\\QuestionRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:47:21.907Z",
+              "WhenOpened": "2025-10-21T07:45:58.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NormalUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\NormalUserRepository.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Repositories\\NormalUserRepository.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\NormalUserRepository.cs",
-              "RelativeToolTip": "QuickPoll\\Infrastructure\\Repositories\\NormalUserRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:46:58.165Z",
+              "WhenOpened": "2025-10-21T08:00:12.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:55:44.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:02:52.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Program.cs",
               "RelativeDocumentMoniker": "QuickPoll\\Program.cs",
               "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Program.cs",
               "RelativeToolTip": "QuickPoll\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowMAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T14:35:18.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPollRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IPollRepository.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Reposotories\\IPollRepository.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IPollRepository.cs",
-              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Reposotories\\IPollRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T13:54:55.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\AppDbContext.cs",
-              "RelativeToolTip": "QuickPoll\\Infrastructure\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:24:28.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateQuestionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreateQuestionDTO.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreateQuestionDTO.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreateQuestionDTO.cs",
-              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreateQuestionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T13:59:53.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PollRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\PollRepository.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Repositories\\PollRepository.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\PollRepository.cs",
-              "RelativeToolTip": "QuickPoll\\Infrastructure\\Repositories\\PollRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAWAAAAAAAAAA==",
+              "Title": "UserConfiguarions.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Configuarions\\UserConfiguarions.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Configuarions\\UserConfiguarions.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Configuarions\\UserConfiguarions.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\Configuarions\\UserConfiguarions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T13:54:11.76Z",
+              "WhenOpened": "2025-10-21T12:18:59.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CreateChoiceDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreateChoiceDTO.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreateChoiceDTO.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreateChoiceDTO.cs",
-              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreateChoiceDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Title": "QuestionConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Configuarions\\QuestionConfigurations.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Configuarions\\QuestionConfigurations.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Configuarions\\QuestionConfigurations.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\Configuarions\\QuestionConfigurations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:02:02.957Z",
+              "WhenOpened": "2025-10-21T12:38:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PollConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Configuarions\\PollConfigurations.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Configuarions\\PollConfigurations.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Configuarions\\PollConfigurations.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\Configuarions\\PollConfigurations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:38:07.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChoiceConfiguraions.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Configuarions\\ChoiceConfiguraions.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Configuarions\\ChoiceConfiguraions.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Configuarions\\ChoiceConfiguraions.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\Configuarions\\ChoiceConfiguraions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:04:54.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CreatePollDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreatePollDTO.cs",
-              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreatePollDTO.cs",
-              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreatePollDTO.cs",
-              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO\\CreatePollDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Enum\\Role.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Enum\\Role.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Enum\\Role.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Enum\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T13:57:47.549Z",
+              "WhenOpened": "2025-10-21T13:03:31.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:22:40.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Question.cs",
               "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\Question.cs",
               "RelativeDocumentMoniker": "QuickPoll\\Domain\\Entities\\Question.cs",
               "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\Question.cs",
               "RelativeToolTip": "QuickPoll\\Domain\\Entities\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T14:09:27.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Poll.cs",
               "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\Poll.cs",
               "RelativeDocumentMoniker": "QuickPoll\\Domain\\Entities\\Poll.cs",
               "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\Poll.cs",
               "RelativeToolTip": "QuickPoll\\Domain\\Entities\\Poll.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T13:58:04.559Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NormalUser.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\NormalUser.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Entities\\NormalUser.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\NormalUser.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Entities\\NormalUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:14:40.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\Choice.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Entities\\Choice.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\Choice.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Entities\\Choice.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:23:17.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\Admin.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:03:30.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:14:39.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:59:12.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Services\\IUserService.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:40:39.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPollOperationService.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Services\\IPollOperationService.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Services\\IPollOperationService.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Services\\IPollOperationService.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Services\\IPollOperationService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:02:34.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IChoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Services\\IChoiceService.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Services\\IChoiceService.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Services\\IChoiceService.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Services\\IChoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:58:32.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Reposotories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IUserRepository.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Reposotories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:40:08.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Reposotories\\IQuestionRepository.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IQuestionRepository.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Reposotories\\IQuestionRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:46:24.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPollRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IPollRepository.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Reposotories\\IPollRepository.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IPollRepository.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Reposotories\\IPollRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:54:55.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IChoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IChoiceRepository.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Domain\\Contracts\\Reposotories\\IChoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Domain\\Contracts\\Reposotories\\IChoiceRepository.cs",
+              "RelativeToolTip": "QuickPoll\\Domain\\Contracts\\Reposotories\\IChoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:58:18.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\Services\\UserService.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\Services\\UserService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:17:47.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PollOperationService.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\Services\\PollOperationService.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\Services\\PollOperationService.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\Services\\PollOperationService.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\Services\\PollOperationService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA3wDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:44:57.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\Services\\ChoiceService.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\Services\\ChoiceService.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\Services\\ChoiceService.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\Services\\ChoiceService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:58:02.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\Score.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\Score.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\Score.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\Score.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:27:16.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\ResultDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\ResultDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\ResultDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\ResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:51:54.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\LoginResultDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\LoginResultDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\LoginResultDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\LoginResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:51:50.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\LoginRequestDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:51:45.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetQuestionsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\GetQuestionsDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\GetQuestionsDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\GetQuestionsDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\GetQuestionsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:31:32.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetQuestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\GetQuestionDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\GetQuestionDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\GetQuestionDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\GetQuestionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:51:36.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetPollDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\GetPollDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\GetPollDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\GetPollDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\GetPollDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:18:03.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetChoicesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\GetChoicesDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\GetChoicesDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\GetChoicesDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\GetChoicesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:33:12.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateQuestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreateQuestionDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\CreateQuestionDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreateQuestionDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\CreateQuestionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:28:32.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreatePollDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\CreatePollDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:51:02.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateChoiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreateChoiceDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\CreateChoiceDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\CreateChoiceDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\CreateChoiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:50:45.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChoiceResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\ChoiceResultDTO.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\ApplicationService\\DTOs\\ChoiceResultDTO.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\ApplicationService\\DTOs\\ChoiceResultDTO.cs",
+              "RelativeToolTip": "QuickPoll\\ApplicationService\\DTOs\\ChoiceResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T09:40:25.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ChoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\ChoiceRepository.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Infrastructure\\Repositories\\ChoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Infrastructure\\Repositories\\ChoiceRepository.cs",
+              "RelativeToolTip": "QuickPoll\\Infrastructure\\Repositories\\ChoiceRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:57:55.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251024212026_ini10.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024212026_ini10.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Migrations\\20251024212026_ini10.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024212026_ini10.cs",
+              "RelativeToolTip": "QuickPoll\\Migrations\\20251024212026_ini10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:20:27.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20251024085400_init.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024085400_init.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Migrations\\20251024085400_init.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024085400_init.cs",
+              "RelativeToolTip": "QuickPoll\\Migrations\\20251024085400_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:54:00.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251024084927_FinalSeedSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024084927_FinalSeedSetup.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Migrations\\20251024084927_FinalSeedSetup.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024084927_FinalSeedSetup.cs",
+              "RelativeToolTip": "QuickPoll\\Migrations\\20251024084927_FinalSeedSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:49:28.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20251024083906_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024083906_init2.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Migrations\\20251024083906_init2.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024083906_init2.cs",
+              "RelativeToolTip": "QuickPoll\\Migrations\\20251024083906_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:39:06.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20251024083648_init.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024083648_init.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Migrations\\20251024083648_init.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024083648_init.cs",
+              "RelativeToolTip": "QuickPoll\\Migrations\\20251024083648_init.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:36:48.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20251024083234_init.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024083234_init.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Migrations\\20251024083234_init.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024083234_init.cs",
+              "RelativeToolTip": "QuickPoll\\Migrations\\20251024083234_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:32:34.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20251024065000_init9.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024065000_init9.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Migrations\\20251024065000_init9.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251024065000_init9.cs",
+              "RelativeToolTip": "QuickPoll\\Migrations\\20251024065000_init9.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T06:50:00.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "QuickPoll.csproj",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\QuickPoll.csproj",
+              "RelativeDocumentMoniker": "QuickPoll\\QuickPoll.csproj",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\QuickPoll.csproj",
+              "RelativeToolTip": "QuickPoll\\QuickPoll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T14:50:35.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ConsolePainter.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Framwork\\ConsolePainter.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Framwork\\ConsolePainter.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Framwork\\ConsolePainter.cs",
+              "RelativeToolTip": "QuickPoll\\Framwork\\ConsolePainter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:07:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20251021122312_addadmin.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251021122312_addadmin.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Migrations\\20251021122312_addadmin.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251021122312_addadmin.cs",
+              "RelativeToolTip": "QuickPoll\\Migrations\\20251021122312_addadmin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:23:12.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20251021105923_admin-data.cs",
+              "DocumentMoniker": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251021105923_admin-data.cs",
+              "RelativeDocumentMoniker": "QuickPoll\\Migrations\\20251021105923_admin-data.cs",
+              "ToolTip": "C:\\Users\\Abolfazl\\source\\repos\\QuickPoll\\QuickPoll\\Migrations\\20251021105923_admin-data.cs",
+              "RelativeToolTip": "QuickPoll\\Migrations\\20251021105923_admin-data.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:59:23.685Z"
             }
           ]
         }

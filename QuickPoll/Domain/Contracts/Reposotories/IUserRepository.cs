@@ -1,4 +1,6 @@
 ﻿using Azure.Identity;
+using QuickPoll.ApplicationService.DTOs.CreatePollDTO;
+using QuickPoll.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +11,8 @@ namespace QuickPoll.Domain.Contracts.Reposotories
 {
     public interface IUserRepository
     {
-        int Login(string username, string password);
+        User? GetUserByUsername(string username);
+        User? Login(string username, string password);
+
     }
 }

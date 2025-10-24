@@ -21,6 +21,21 @@ namespace QuickPoll.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("ChoiceNormalUser", b =>
+                {
+                    b.Property<int>("ChoicesId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("NormalUsersId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ChoicesId", "NormalUsersId");
+
+                    b.HasIndex("NormalUsersId");
+
+                    b.ToTable("ChoiceNormalUser");
+                });
+
             modelBuilder.Entity("NormalUserPoll", b =>
                 {
                     b.Property<int>("NormalUsersId")
@@ -36,30 +51,6 @@ namespace QuickPoll.Migrations
                     b.ToTable("NormalUserPoll");
                 });
 
-            modelBuilder.Entity("QuickPoll.Domain.Entities.Admin", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Password")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("Role")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Admins");
-                });
-
             modelBuilder.Entity("QuickPoll.Domain.Entities.Choice", b =>
                 {
                     b.Property<int>("Id")
@@ -68,16 +59,13 @@ namespace QuickPoll.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("ChoiceNumber")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<bool>("IsCorrect")
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
 
                     b.Property<int>("QuestionId")
                         .HasColumnType("int");
@@ -87,38 +75,6 @@ namespace QuickPoll.Migrations
                     b.HasIndex("QuestionId");
 
                     b.ToTable("Choices");
-                });
-
-            modelBuilder.Entity("QuickPoll.Domain.Entities.NormalUser", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("ChoiceId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Password")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("PollId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Role")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ChoiceId");
-
-                    b.ToTable("NormalUsers");
                 });
 
             modelBuilder.Entity("QuickPoll.Domain.Entities.Poll", b =>
@@ -134,7 +90,8 @@ namespace QuickPoll.Migrations
 
                     b.Property<string>("Subject")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(150)
+                        .HasColumnType("nvarchar(150)");
 
                     b.HasKey("Id");
 
@@ -158,15 +115,68 @@ namespace QuickPoll.Migrations
                     b.Property<int>("PollId")
                         .HasColumnType("int");
 
-                    b.Property<string>("QuestionNumber")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.HasKey("Id");
 
                     b.HasIndex("PollId");
 
                     b.ToTable("Questions");
+                });
+
+            modelBuilder.Entity("QuickPoll.Domain.Entities.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Role")
+                        .HasColumnType("int");
+
+                    b.Property<string>("UserName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Users");
+
+                    b.HasDiscriminator<int>("Role").HasValue(3);
+
+                    b.UseTphMappingStrategy();
+                });
+
+            modelBuilder.Entity("QuickPoll.Domain.Entities.Admin", b =>
+                {
+                    b.HasBaseType("QuickPoll.Domain.Entities.User");
+
+                    b.HasDiscriminator().HasValue(2);
+                });
+
+            modelBuilder.Entity("QuickPoll.Domain.Entities.NormalUser", b =>
+                {
+                    b.HasBaseType("QuickPoll.Domain.Entities.User");
+
+                    b.HasDiscriminator().HasValue(1);
+                });
+
+            modelBuilder.Entity("ChoiceNormalUser", b =>
+                {
+                    b.HasOne("QuickPoll.Domain.Entities.Choice", null)
+                        .WithMany()
+                        .HasForeignKey("ChoicesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("QuickPoll.Domain.Entities.NormalUser", null)
+                        .WithMany()
+                        .HasForeignKey("NormalUsersId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("NormalUserPoll", b =>
@@ -189,21 +199,10 @@ namespace QuickPoll.Migrations
                     b.HasOne("QuickPoll.Domain.Entities.Question", "Question")
                         .WithMany("Choices")
                         .HasForeignKey("QuestionId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("Question");
-                });
-
-            modelBuilder.Entity("QuickPoll.Domain.Entities.NormalUser", b =>
-                {
-                    b.HasOne("QuickPoll.Domain.Entities.Choice", "Choice")
-                        .WithMany("NormalUsers")
-                        .HasForeignKey("ChoiceId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Choice");
+                    b.Navigation("Question");
                 });
 
             modelBuilder.Entity("QuickPoll.Domain.Entities.Poll", b =>
@@ -211,7 +210,7 @@ namespace QuickPoll.Migrations
                     b.HasOne("QuickPoll.Domain.Entities.Admin", "Admin")
                         .WithMany("Polls")
                         .HasForeignKey("AdminId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.Navigation("Admin");
@@ -228,16 +227,6 @@ namespace QuickPoll.Migrations
                     b.Navigation("Poll");
                 });
 
-            modelBuilder.Entity("QuickPoll.Domain.Entities.Admin", b =>
-                {
-                    b.Navigation("Polls");
-                });
-
-            modelBuilder.Entity("QuickPoll.Domain.Entities.Choice", b =>
-                {
-                    b.Navigation("NormalUsers");
-                });
-
             modelBuilder.Entity("QuickPoll.Domain.Entities.Poll", b =>
                 {
                     b.Navigation("Questions");
@@ -246,6 +235,11 @@ namespace QuickPoll.Migrations
             modelBuilder.Entity("QuickPoll.Domain.Entities.Question", b =>
                 {
                     b.Navigation("Choices");
+                });
+
+            modelBuilder.Entity("QuickPoll.Domain.Entities.Admin", b =>
+                {
+                    b.Navigation("Polls");
                 });
 #pragma warning restore 612, 618
         }

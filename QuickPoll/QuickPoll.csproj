@@ -14,10 +14,8 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="ApplicationService\Services\" />
+    <PackageReference Include="ScottPlot" Version="5.1.57" />
+    <PackageReference Include="Spectre.Console" Version="0.52.0" />
   </ItemGroup>
 
 </Project>
